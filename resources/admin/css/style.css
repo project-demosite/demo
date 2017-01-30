@@ -1,0 +1,16 @@
+.hide_alert {
+	display: none;
+}
+
+.show_alert{
+	display: block;
+}
+
+.alert {
+	margin-bottom: 0px;
+	position: absolute;
+    bottom: 50px;
+    z-index: 1;
+    width: 60%;
+    right: 10px;
+}
